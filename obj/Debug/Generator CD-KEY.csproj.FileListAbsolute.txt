@@ -1,0 +1,10 @@
+C:\Users\P.Wika\Desktop\test333\Generator CD-KEY\bin\Debug\Generator CD-KEY.exe.config
+C:\Users\P.Wika\Desktop\test333\Generator CD-KEY\bin\Debug\Generator CD-KEY.exe
+C:\Users\P.Wika\Desktop\test333\Generator CD-KEY\bin\Debug\Generator CD-KEY.pdb
+C:\Users\P.Wika\Desktop\test333\Generator CD-KEY\obj\Debug\Generator CD-KEY.csproj.AssemblyReference.cache
+C:\Users\P.Wika\Desktop\test333\Generator CD-KEY\obj\Debug\Generator_CD_KEY.Form1.resources
+C:\Users\P.Wika\Desktop\test333\Generator CD-KEY\obj\Debug\Generator_CD_KEY.Properties.Resources.resources
+C:\Users\P.Wika\Desktop\test333\Generator CD-KEY\obj\Debug\Generator CD-KEY.csproj.GenerateResource.cache
+C:\Users\P.Wika\Desktop\test333\Generator CD-KEY\obj\Debug\Generator CD-KEY.csproj.CoreCompileInputs.cache
+C:\Users\P.Wika\Desktop\test333\Generator CD-KEY\obj\Debug\Generator CD-KEY.exe
+C:\Users\P.Wika\Desktop\test333\Generator CD-KEY\obj\Debug\Generator CD-KEY.pdb
